@@ -5,7 +5,7 @@ Specjalizuję się w **tworzeniu aplikacji webowych i backendowych**, a także r
 W tym repozytorium znajdziesz moje **projekty** oraz **CV**.  
 
 ## 🚀 Projekty  
-🔹 **[Projekt 1](link_do_repozytorium)** – Opis projektu (np. "Aplikacja webowa w React + Django")  
+🔹 **Strona WWW z moim CV](https://patrykkasznycv.netlify.app)** – Opis projektu (np. "Aplikacja webowa w React + Django")  
 🔹 **[Projekt 2](link_do_repozytorium)** – Opis projektu (np. "Analiza danych w Pythonie")  
 🔹 **[Projekt 3](link_do_repozytorium)** – Opis projektu  
 
