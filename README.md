@@ -6,6 +6,7 @@ W tym repozytorium znajdziesz moje **projekty** oraz **CV**.
 
 ## 🚀 Projekty  
 🔹 **[Strona WWW z moim CV](https://patrykkasznycv.netlify.app)** – Strona internetowa stworzona w **HTML** i **CSS**, mająca na celu prezentację mojego CV. Projekt wykorzystuje proste technologie frontendowe do stworzenia eleganckiego i responsywnego układu, który umożliwia wygodne zapoznanie się z moimi umiejętnościami, doświadczeniem oraz edukacją w formie interaktywnej strony internetowej.
+
 🔹 **[Projekt 2](link_do_repozytorium)** – Opis projektu (np. "Analiza danych w Pythonie")  
 🔹 **[Projekt 3](link_do_repozytorium)** – Opis projektu  
 
