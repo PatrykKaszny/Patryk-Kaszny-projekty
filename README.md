@@ -7,7 +7,8 @@ W tym repozytorium znajdziesz moje **projekty** oraz **CV**.
 ## 🚀 Projekty  
 🔹 **[Strona WWW z moim CV](https://patrykkasznycv.netlify.app)** – Strona internetowa stworzona w **HTML** i **CSS**, mająca na celu prezentację mojego CV. Projekt wykorzystuje proste technologie frontendowe do stworzenia eleganckiego i responsywnego układu, który umożliwia wygodne zapoznanie się z moimi umiejętnościami, doświadczeniem oraz edukacją w formie interaktywnej strony internetowej.
 
-🔹 **[Projekt 2](link_do_repozytorium)** – Opis projektu (np. "Analiza danych w Pythonie")  
+🔹 **[Solaryzacja obrazu](https://github.com/PatrykKaszny/Patryk-Kaszny-projekty/tree/main/Solaryzacja)** – Projekt konwertera obrazów umożliwia solaryzację obrazu przy użyciu dwóch bibliotek – jednej napisanej w Asemblerze, a drugiej w C++. Biblioteka w Asemblerze została zoptymalizowana do szybkiego przetwarzania pikseli, co zapewnia wysoką wydajność nawet dla dużych obrazów. Natomiast moduł w C++ odpowiada za interfejs i integrację, umożliwiając łatwą obsługę i manipulację obrazami.
+Projekt demonstruje połączenie niskopoziomowej optymalizacji z wysokopoziomowym zarządzaniem danymi, co czyni go efektywnym narzędziem do eksperymentowania z efektami graficznymi. 🚀  
 🔹 **[Projekt 3](link_do_repozytorium)** – Opis projektu  
 
 ## 🛠 Technologie  
