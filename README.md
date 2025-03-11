@@ -17,5 +17,5 @@ W tym repozytorium znajdziesz moje **projekty** oraz **CV**.
 
 ## 📬 Kontakt  
 📧 Email: [patrykkaszny@op.pl](mailto:patrykkaszny@op.pl)  
-💼 LinkedIn: [Twój Profil](https://www.linkedin.com/in/patryk-kaszny-21b117356/)  
+💼 LinkedIn: [Mój Profil](https://www.linkedin.com/in/patryk-kaszny-21b117356/)  
 🐙 GitHub: [PatrykKaszny](https://github.com/PatrykKaszny/Patryk-Kaszny-projekty)  
