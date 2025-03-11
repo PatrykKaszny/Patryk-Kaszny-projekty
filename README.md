@@ -9,7 +9,8 @@ W tym repozytorium znajdziesz moje **projekty** oraz **CV**.
 
 🔹 **[Solaryzacja obrazu](https://github.com/PatrykKaszny/Patryk-Kaszny-projekty/tree/main/Solaryzacja)** – Projekt konwertera obrazów umożliwia solaryzację obrazu przy użyciu dwóch bibliotek – jednej napisanej w Asemblerze, a drugiej w C++. Biblioteka w Asemblerze została zoptymalizowana do szybkiego przetwarzania pikseli, co zapewnia wysoką wydajność nawet dla dużych obrazów. Natomiast moduł w C++ odpowiada za interfejs i integrację, umożliwiając łatwą obsługę i manipulację obrazami.
 Projekt demonstruje połączenie niskopoziomowej optymalizacji z wysokopoziomowym zarządzaniem danymi, co czyni go efektywnym narzędziem do eksperymentowania z efektami graficznymi. 🚀  
-🔹 **[Projekt 3](link_do_repozytorium)** – Opis projektu  
+
+🔹 **[Własny kontener danych typu Vector]([link_do_repozytorium](https://github.com/PatrykKaszny/Patryk-Kaszny-projekty/tree/main/Projekt%20tablica%20vector))** – Projekt własnego kontenera danych typu Vector to implementacja dynamicznej struktury tablicowej w C++, działającej na zasadzie standardowego std::vector. Kontener umożliwia dynamiczne zarządzanie pamięcią, dodawanie, usuwanie oraz dostęp do elementów w sposób optymalny pod względem wydajności.  
 
 ## 🛠 Technologie  
 ✅ **Frontend:** HTML, CSS, JavaScript  
