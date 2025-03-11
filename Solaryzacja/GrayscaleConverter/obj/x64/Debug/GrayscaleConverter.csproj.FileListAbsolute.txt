@@ -1,0 +1,27 @@
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\bin\x64\Debug\GrayscaleConverter.exe.config
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\bin\x64\Debug\GrayscaleConverter.exe
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\bin\x64\Debug\GrayscaleConverter.pdb
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConverter.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConverter.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConverter.exe
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConverter.pdb
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\bin\x64\Debug\System.Drawing.Common.pdb
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\bin\x64\Debug\System.Drawing.Common.xml
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\Grayscal.37ECC8C0.Up2Date
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConv.Form1.resources
+C:\Users\hp\Desktop\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConverter.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\bin\x64\Debug\GrayscaleConverter.exe.config
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\bin\x64\Debug\GrayscaleConverter.exe
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\bin\x64\Debug\GrayscaleConverter.pdb
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\bin\x64\Debug\System.Drawing.Common.pdb
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\bin\x64\Debug\System.Drawing.Common.xml
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConverter.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConv.Form1.resources
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConverter.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConverter.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConverter.csproj.CopyComplete
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConverter.exe
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConverter.pdb
+C:\Users\Asus\OneDrive - Politechnika Śląska\Pulpit\GrayscaleConverter\GrayscaleConverter\obj\x64\Debug\GrayscaleConverter.Properties.Resources.resources
