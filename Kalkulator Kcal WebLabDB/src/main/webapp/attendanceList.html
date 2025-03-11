@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Product List</title>
+        <script src="js/AllProducts.js"></script>
+        <link rel="stylesheet" href="css/main.css">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body onload="getAttendanceListTable('tableAttendanceListId'); loadProductOptions();">
+        <h1>Product List</h1>
+        
+        <!-- Tabela produktów -->
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Protein</th>
+                    <th>Carbs</th>
+                    <th>Fat</th>
+                    <th>Weight</th>
+                    <th>Kcal</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="tableAttendanceListId"/>
+        </table>
+
+        <a href="calculator.html">
+            <input type="button" value="Add" />
+        </a>
+        <a href="index.html">
+            <input type="button" value="Back" />
+        </a>
+
+        <h2>Add the eaten product</h2>
+        <form id="consumedProductForm" onsubmit="submitConsumedProduct(event)">
+            <label for="productSelect">Product:</label>
+            <select id="productSelect">
+                <!-- Te dane zostaną uzupełnione z serwera -->
+            </select>
+            <label for="productGrams">Amount of grams:</label>
+            <input type="number" id="productGrams" min="1" required>
+            <button type="submit">Add</button>
+        </form>
+
+        <div id="aggregationResult"></div>
+
+        <!-- Formularz edycji produktu -->
+        <div id="editProductForm" style="display: none;">
+            <h2>Edit Product</h2>
+            <form onsubmit="submitEditForm(); return false;">
+                <label for="editName">Name:</label>
+                <input type="text" id="editName" required><br><br>
+
+                <label for="editProtein">Protein (g):</label>
+                <input type="number" id="editProtein" required><br><br>
+
+                <label for="editCarb">Carbs (g):</label>
+                <input type="number" id="editCarb" required><br><br>
+
+                <label for="editFat">Fat (g):</label>
+                <input type="number" id="editFat" required><br><br>
+
+                <button type="submit">Save changes</button>
+                <button type="button" onclick="cancelEdit()">Cancel</button>
+            </form>
+        </div>
+    </body>
+</html>
